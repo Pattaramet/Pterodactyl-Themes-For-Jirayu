@@ -2,7 +2,7 @@
 
 ## Information
 
-Panel version: `v1.10.3`
+Panel version: `v123456789.987654321 👽`
 
 ## Applying theme
 
@@ -14,3 +14,6 @@ Panel version: `v1.10.3`
 6. run `php artisan up` to make the panel available again
 
    DONE!
+
+
+HI เก Jirayu
